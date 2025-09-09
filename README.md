@@ -25,11 +25,17 @@ cmake --version
 pip install -r requirements.txt
 ```
 ## -3.1
-Caso a instalaçãod da biblioteca "face_recognition" não funcione instale manualmente as dependencias dela antes:
+Caso a instalação da biblioteca "face_recognition" não funcione faça isso:
 ```bash
 pip install cmake
 pip install dlib
 pip install face_recognition
+```
+## -3
+Rode o comando para instalar os modelos do face_recognition
+```bash
+pip install wheel setuptools pip --upgrade
+pip install git+https://github.com/ageitgey/face_recognition_models --verbos
 ```
 ## -4
 ```bash
