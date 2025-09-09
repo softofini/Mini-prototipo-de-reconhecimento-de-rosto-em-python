@@ -12,12 +12,9 @@
 
 ## -1
 Se você ultiliza Windows:
-Instale o [Visual Studio Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
+Instale [CMake](https://cmake.org/download/) e o [Visual Studio Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 
-Ao abrir o instalador, selecione:
-Desktop development with C++
-
-Isso instala o compilador MSVC, que o dlib precisa.
+Ao abrir o instalador, selecione: Desktop development with C++
 
 Reinicie o PC e verifique executado:
 ```bash
