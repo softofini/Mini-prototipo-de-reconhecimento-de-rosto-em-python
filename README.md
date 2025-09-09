@@ -31,13 +31,13 @@ pip install cmake
 pip install dlib
 pip install face_recognition
 ```
-## -3
+## -4
 Rode o comando para instalar os modelos do face_recognition
 ```bash
 pip install wheel setuptools pip --upgrade
 pip install git+https://github.com/ageitgey/face_recognition_models --verbos
 ```
-## -4
+## -5
 ```bash
 python Reconhecimento.py
 ```
