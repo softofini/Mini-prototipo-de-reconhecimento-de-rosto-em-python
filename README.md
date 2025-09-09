@@ -1,0 +1,1 @@
+# Mini-prototipo-de-reconhecimento-de-rosto-em-python
