@@ -12,7 +12,7 @@
 
 ## -1
 Se você ultiliza Windows:
-Instale o Visual [Studio Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
+Instale o [Visual Studio Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 
 Ao abrir o instalador, selecione:
 Desktop development with C++
